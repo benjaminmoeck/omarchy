@@ -33,7 +33,6 @@ fastfetch
 #fcitx5-gtk
 #fcitx5-qt
 fd
-<<<<<<< HEAD
 ghostty
 gnome-calculator
 gnome-keyring
@@ -43,6 +42,9 @@ gpu-screen-recorder
 gvfs-mtp
 gvfs-nfs
 gvfs-smb
+gnome-calculator
+gnome-keyring
+gnome-themes-extra
 #ffmpegthumbnailer
 #fontconfig
 #fzf
@@ -77,6 +79,12 @@ libreoffice-fresh
 llvm
 localsend
 luarocks
+#libyaml
+#libqalculate
+libreoffice
+#llvm
+#localsend
+#luarocks
 mako
 man-db
 mariadb-libs
