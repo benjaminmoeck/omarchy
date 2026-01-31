@@ -22,7 +22,6 @@ cups-pdf
 docker
 docker-buildx
 docker-compose
-#dotnet-runtime-9.0
 #dust
 evince
 exfatprogs
@@ -39,6 +38,12 @@ gnome-keyring
 gnome-themes-extra
 grim
 gpu-screen-recorder
+gvfs-mtp
+gvfs-nfs
+gvfs-smb
+gnome-calculator
+gnome-keyring
+gnome-themes-extra
 #ffmpegthumbnailer
 #fontconfig
 #fzf
@@ -71,6 +76,12 @@ less
 #libyaml
 #libqalculate
 libreoffice-fresh
+llvm
+localsend
+luarocks
+#libyaml
+#libqalculate
+libreoffice
 #llvm
 #localsend
 #luarocks
