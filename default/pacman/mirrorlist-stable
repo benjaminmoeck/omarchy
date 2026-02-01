@@ -1,1 +1,2 @@
 Server = https://stable-mirror.omarchy.org/$repo/os/$arch
+Server = https://mirror.informatik.tu-freiberg.de/arch/$repo/os/$arch
