@@ -8,7 +8,8 @@ bat
 bluetui # tui for managing bluethooth devices
 bolt # font
 brightnessctl
-btop 
+btop
+firefox
 cups # printer support
 cups-browsed
 cups-filters
@@ -23,12 +24,12 @@ fcitx5 # import method framework
 fcitx5-gtk
 fcitx5-qt
 fd # find replacement
-ghostty # terminal emulator
-gnome-calculator 
-gnome-keyring 
-gnome-themes-extra 
-grim #wayland screenshot utility
 fontconfig
+ghostty # terminal emulator
+gnome-calculator
+gnome-keyring
+gnome-themes-extra
+grim #wayland screenshot utility
 gum #A tool for glamorous shell scripts
 hypridle
 hyprland
@@ -62,7 +63,7 @@ omarchy-chromium
 omarchy-nvim
 omarchy-walker
 playerctl #music player ctrl
-plocate #faster file finder 
+plocate #faster file finder
 plymouth
 polkit-gnome
 qt5-wayland
@@ -72,31 +73,30 @@ sddm # simple desktop display manager
 signal-desktop
 slurp # something in wayland
 spotify
-starship # 
+starship #
 sushi # nautilus previewer
 swaybg
 swayosd
 system-config-printer
-tldr # simplified man pages 
+tldr # simplified man pages
 ttf-cascadia-mono-nerd
 ttf-ia-writer
 ttf-jetbrains-mono-nerd
 typora # minimal markdown
 tzupdate
-unzip
-usage
 ufw
 ufw-docker
+unzip
+usage
 uwsm # universialo wayland session manager
 waybar
 wayfreeze
 wireless-regdb # wlan setting
 wireplumber #session storage service
-wl-clipboard 
+wl-clipboard
 woff2-font-awesome
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
 xdg-terminal-exec
 yaru-icon-theme
-paru
 zoxide #smarter cd command
